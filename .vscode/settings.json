@@ -1,0 +1,10 @@
+{
+    "editor.matchBrackets": false,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "files.autoSave": "onFocusChange",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.fontSize": 17,
+    "editor.fontFamily": "'DejaVu Sans Mono'"
+}
